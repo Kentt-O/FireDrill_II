@@ -15,7 +15,7 @@ public class Task1{
 			score += userInput;
 			count++;
 		}
-		System.out.printf("Total is :%d", score);
+		System.out.printf("Total score is :%d", score);
 	}
 
 }
